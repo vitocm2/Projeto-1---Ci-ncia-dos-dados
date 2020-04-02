@@ -1,4 +1,5 @@
 Projeto 1 - Ciência dos dados - Vítor Calcete Marques
+
 Para esse projeto é necessário escolher três indicadores disponíveis no Gapminder, sendo um deles o IDH(Índice de Desenvolvimento Humano), e outros dois livres para escolha. É preciso fazer uma pergunta para ser respondida com a análise dos dados dos indicadores.
 
 Os indicadores escolhidos para esse projeto foram: IDH, População Total e Consumo total de eletricidade.
